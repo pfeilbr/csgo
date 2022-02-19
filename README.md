@@ -10,6 +10,10 @@
 -novid -console -lv -nojoy -noaafonts +cl_forcepreload -threads 6 -tickrate 128
 ```
 
+## Windows
+
+
+
 ## Resources
 
 * 
